@@ -1,2 +1,0 @@
-C:\ESD\komp\x64\Debug\freeglutd.dll
-C:\ESD\komp\komp\x64\Debug\komp.vcxproj.Up2Date
